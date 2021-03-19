@@ -6,7 +6,7 @@ This project is from the Day 28 code along video from Udemy's 50 projects in 50 
 
 ### Overall Impression
 
-
+Good refresher on Axios and getting API data. Also nice that I didn't need an API key! I could see something like this being useful for any kind of directory.
 
 ### Things Learned
 
